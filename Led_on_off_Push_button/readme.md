@@ -3,7 +3,7 @@ Assignment 2
 Aim:  
 Write a MikroC program for microcontroller, to send values to ports when a button is pressed  
 
-Components:
+Components:  
 One microcontroller, Atmega8051  
 Four push buttons
 One Crystal Oscillator, 11.05920Mhz  
