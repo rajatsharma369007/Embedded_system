@@ -1,6 +1,7 @@
 Assignment 1  
 
-Aim: Write a program in MikroC for microcontroller, to send values to the port.  
+Aim:  
+Write a program in MikroC for microcontroller, to send values to the port.  
   
 Components:  
 One microcontroller, Atmega8051  
