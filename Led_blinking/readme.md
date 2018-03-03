@@ -15,5 +15,9 @@ Circuit :
 
 ![alt text](https://github.com/rajatsharma369007/Embedded_system/blob/master/Led_blinking/Circuit/1.JPG)
 
-![alt text](https://github.com/rajatsharma369007/Embedded_system/blob/master/Led_blinking/Circuit/2.JPG)
+![alt text](https://github.com/rajatsharma369007/Embedded_system/blob/master/Led_blinking/Circuit/2.JPG)  
+
+Program :  
+
+![alt text](https://github.com/rajatsharma369007/Embedded_system/blob/master/Led_blinking/Circuit/3.JPG)
 
